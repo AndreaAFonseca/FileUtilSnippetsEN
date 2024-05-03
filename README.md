@@ -410,12 +410,12 @@ This repository can be used as a starting point to implement Enums, Sealed Class
 ## Contribution
 Feel free to contribute with improvements, bug fixes, or new features. Open an issue or submit a pull request!
 
-## Licença
+## License
 This project is licensed under the MIT License. Read the [LICENSE](https://github.com/AndreaAFonseca/FileUtilSnippetsEN/blob/master/LICENSE)
 file for details on rights and limitations.
 
 ## Note on Project Origin
 This project was originally created in Portuguese and later translated into English for wider accessibility and understanding.
 
-## Autor
+## Author
 Andréa Alessandra Fonsêca
